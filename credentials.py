@@ -1,5 +1,5 @@
 def mail_id():
-    return "keshavvenkat22@gmail.com"
+    return "your_email@example.com"
 
 def password():
-    return "keshav@222"
+    return "your_password"
